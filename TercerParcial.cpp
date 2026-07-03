@@ -232,8 +232,8 @@ int main() {
     // auto1.setPlaca("NUEVA"); // ERROR de compilacion
     cout << "\nPlaca de auto1: " << auto1.getPlaca() << endl;
     // Validacion de año: no se permite año futuro
-    auto1.setAnio(2025);
-    cout << "Anio despues de intentar 2025: " << auto1.getAnio() << endl;  // sigue 2020
+    auto1.setAnio(2026);
+    cout << "Anio despues de intentar 2026: " << auto1.getAnio() << endl;  // sigue 2020
     auto1.setAnio(2022);
     cout << "Anio despues de setear 2022: " << auto1.getAnio() << endl;    // ahora 2022
     // Sobrecarga de mostrarCosto

@@ -233,9 +233,9 @@ int main() {
     cout << "\nPlaca de auto1: " << auto1.getPlaca() << endl;
     // Validacion de año: no se permite año futuro
     auto1.setAnio(2026);
-    cout << "Anio despues de intentar 2026: " << auto1.getAnio() << endl;  // sigue 2020
+    cout << "Anio despues de intentar 2026: " << auto1.getAnio() << endl;  // sigue 2026
     auto1.setAnio(2022);
-    cout << "Anio despues de setear 2022: " << auto1.getAnio() << endl;    // ahora 2022
+    cout << "Anio despues de setear 2022: " << auto1.getAnio() << endl;    // ahora 2022 setear significa cambiar el valor, no validar. El valor se cambia si es valido.
     // Sobrecarga de mostrarCosto
     /*cout << "\n=== SOBRECARGA DE mostrarCosto ===" << endl;
     mostrarCosto(auto1, 3);   // con dias

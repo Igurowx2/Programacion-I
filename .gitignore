@@ -1,0 +1,24 @@
+# Ignorar proyectos no relacionados
+ClinicaCitas/
+curso1/
+proyecto_iam_cpp/
+Practicas_Calificadas/
+
+# Archivos de compilación
+*.exe
+*.out
+*.o
+*.obj
+a.out
+
+# Directorios de compilación
+build/
+bin/
+.vscode/
+.idea/
+
+# Archivos temporales
+*.tmp
+*.log
+.DS_Store
+Thumbs.db

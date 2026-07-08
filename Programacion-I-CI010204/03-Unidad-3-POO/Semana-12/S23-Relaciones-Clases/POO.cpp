@@ -1,0 +1,5 @@
+/*
+1. Asociación -> Es una relación entre dos clases donde una clase utiliza a otra clase sin ser propietaria de ella. En esta relación, las clases pueden existir de manera independiente y no dependen una de la otra para su existencia. Por ejemplo, un "Profesor" puede estar asociado con un "Curso", pero el "Curso" puede existir sin el "Profesor".
+2. Agregacion -> Es una relación más fuerte que la asociación, donde una clase es parte de otra clase, pero aún puede existir de manera independiente. En esta relación, la clase "parte" puede existir sin la clase "todo". Por ejemplo, un "Departamento" puede tener varios "Empleados", pero los "Empleados" pueden existir sin el "Departamento".
+3. Composición -> Es una relación más fuerte que la agregación, donde una clase es parte de otra clase y no puede existir de manera independiente. En esta relación, la clase "parte" depende completamente de la clase "todo". Por ejemplo, un "Motor" puede ser parte de un "Coche", y si el "Coche" se destruye, el "Motor" también se destruye.
+ */

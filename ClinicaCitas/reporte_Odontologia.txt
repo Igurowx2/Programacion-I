@@ -1,0 +1,10 @@
+REPORTE DE CITAS - Servicio: Odontologia
+Descripcion: Para revision general de los dientes , curacion , ondodoncia , etc
+Costo: S/. 50
+========================================
+
+Cita ID: 1
+Fecha: 12/06/2026  Hora: 03:21
+Estado: Pendiente
+Medico: Dr/a Jaime Cruz Poma (Odontologia)
+Paciente: Maykel Trujillo Aguirre | DNI: 60932449 | Tel: +51 986 275 816

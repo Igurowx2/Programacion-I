@@ -1,9 +1,3 @@
-# Ignorar proyectos no relacionados
-ClinicaCitas/
-curso1/
-proyecto_iam_cpp/
-Practicas_Calificadas/
-
 # Archivos de compilación
 *.exe
 *.out

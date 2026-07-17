@@ -1,0 +1,4 @@
+REPORTE DE INCIDENTES - SIEM Lite
+INC-01000 | Ataque de fuerza bruta desde IP 192.168.1.5
+INC-01001 | Escaneo de puertos desde IP 192.168.1.5
+INC-01002 | Posible exfiltración de datos tras infección en IP 192.168.1.5

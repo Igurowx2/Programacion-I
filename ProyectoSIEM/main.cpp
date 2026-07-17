@@ -137,6 +137,3 @@ int main() {
 
     return 0;
 }
-
-// URL del repositorio (placeholder)
-// https://github.com/Igurowx2/Programacion-I/tree/main/ProyectoSIEM

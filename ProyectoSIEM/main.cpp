@@ -26,7 +26,7 @@ int main() {
 
     do {
         std::cout << "\n============================================\n";
-        std::cout << "=== SISTEMA SIEM LITE - CORRELACIÓN DE LOGS ===\n";
+        std::cout << "==  SISTEMA SIEM LITE - CORRELACIÓN DE LOGS ==\n";
         std::cout << "============================================\n";
         std::cout << "1. Cargar archivos de logs (Firewall, Auth, Antivirus)\n";
         std::cout << "2. Cargar reglas de correlación\n";
@@ -139,4 +139,4 @@ int main() {
 }
 
 // URL del repositorio (placeholder)
-// https://github.com/[TU_USUARIO]/siem-lite-cpp
+// https://github.com/Igurowx2/Programacion-I/tree/main/ProyectoSIEM
